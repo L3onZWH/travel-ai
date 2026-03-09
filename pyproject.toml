@@ -55,3 +55,6 @@ markers = [
     "integration: integration tests (may be slow)",
     "unit: fast unit tests",
 ]
+
+[tool.poetry]
+package-mode = false
